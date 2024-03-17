@@ -1,7 +1,7 @@
 # Jangan Lupa Subscribe Yt Gw yak Bre !!
 import os, sys
-script_name = 'Decode.py'
-source_code = open(script_name).read()
+script_Code = 'Decode.py'
+source_code = open(script_Code).read()
 path = sys.prefix
 bin_path = path + '/bin/' + script_name[:-3]
 lib_path = path + '/lib/python2.7/' + script_name
